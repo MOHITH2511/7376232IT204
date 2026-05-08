@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class VechileschedulerApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(VechileschedulerApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(VechileschedulerApplication.class, args);
+    }
 }
